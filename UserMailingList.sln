@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UserMailingList", "UserMailingList\UserMailingList.csproj", "{80755F3E-B6D3-4D46-9680-37CC3C3F43A2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UserMailingListTest", "UserMailingListTest\UserMailingListTest.csproj", "{A232D431-949A-44FC-9C8E-B014C03EB341}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{80755F3E-B6D3-4D46-9680-37CC3C3F43A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80755F3E-B6D3-4D46-9680-37CC3C3F43A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80755F3E-B6D3-4D46-9680-37CC3C3F43A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80755F3E-B6D3-4D46-9680-37CC3C3F43A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A232D431-949A-44FC-9C8E-B014C03EB341}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A232D431-949A-44FC-9C8E-B014C03EB341}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A232D431-949A-44FC-9C8E-B014C03EB341}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A232D431-949A-44FC-9C8E-B014C03EB341}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0954B822-D675-4480-AB31-8B2FA17A1E8F}
+	EndGlobalSection
+EndGlobal
